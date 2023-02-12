@@ -1,0 +1,6 @@
+#ifndef FAIRYDOWN_FAIRYDOWN_H
+#define FAIRYDOWN_FAIRYDOWN_H
+
+void hello();
+
+#endif //FAIRYDOWN_FAIRYDOWN_H
